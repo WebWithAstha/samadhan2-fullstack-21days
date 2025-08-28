@@ -11,4 +11,22 @@ Each day has its own folder, but this README is my main progress log.
 - Folder: [`/day-01-js-basics`](./day-01-js-basics)
 - Learned: Variables, data types, operators, basic console apps
 
+### Day 02 – JS Fundamentals
+- Folder: [`/day-02`](./day-02)
+- Learned: Conditionals, functions, loops, and mini tasks
+
+### Day 03 – JS Advanced Concepts
+- Folder: [`/day-03`](./day-03)
+- Learned: Array methods and student results calculator
+
+### Day 04 – Node.js Introduction
+- Folder: [`/day-04`](./day-04)
+- Learned: Node.js basics, npm init, and creating a basic HTTP server
+- Mini-task: API returning "Hello, World!"
+
+### Day 05 – Express.js Basics
+- Folder: [`/day-05`](./day-05)
+- Learned: Installing Express, creating routes (GET, POST)
+- Mini-task: API returning a list of students (JSON)
+
 ---
