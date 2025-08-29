@@ -1,0 +1,44 @@
+.text-preview-container {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 500px;
+  margin: 20px;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+.control-group {
+  margin-bottom: 15px;
+}
+
+.control-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.control-group input,
+.control-group textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-family: inherit;
+}
+
+.control-group input[type="color"] {
+  height: 40px;
+  padding: 2px;
+}
+
+.preview {
+  padding: 20px;
+  border-radius: 4px;
+  min-height: 100px;
+  word-wrap: break-word;
+  transition: all 0.3s ease;
+}
