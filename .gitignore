@@ -26,3 +26,6 @@ build/
 # Operating System Files
 .DS_Store
 Thumbs.db
+
+readmeContent.md
+.gitignore
