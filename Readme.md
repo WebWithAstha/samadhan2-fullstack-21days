@@ -30,3 +30,16 @@ Each day has its own folder, but this README is my main progress log.
 - Mini-task: API returning a list of students (JSON)
 
 ---
+
+
+### Day 08 – Lists & Events
+- Folder: [`/day-08`](./day-08)
+- Learned: Rendering lists with .map, handling events (onClick, onChange)
+- Mini Task: To-Do List (local state only)
+
+**Instructions:**  
+```bash
+cd day-08
+cd react-app
+npm install
+npm run dev
