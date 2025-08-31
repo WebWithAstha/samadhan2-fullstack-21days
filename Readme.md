@@ -43,3 +43,34 @@ cd day-08
 cd react-app
 npm install
 npm run dev
+
+
+
+```
+
+
+---
+
+### Day 09 – useEffect & Fetch API
+- Folder: [`/day-09`](./day-09)
+- Learned: useEffect basics, fetching data from Node backend
+- Mini Task: Student Directory (backend + frontend)
+
+**Instructions:**  
+1. Start backend (Day 5 Express server):  
+```bash
+cd day-05
+npm install
+node index.js
+```
+
+2. Start frontend:
+```bash
+cd day-09
+cd react-app
+npm install
+npm run dev
+```
+
+
+---
