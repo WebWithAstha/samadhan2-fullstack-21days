@@ -43,6 +43,8 @@
   border: 1px solid #ddd;
   border-radius: 4px;
   font-size: 0.9rem;
+  background-color: #fff;
+  color: #000;
 }
 
 .add-btn {

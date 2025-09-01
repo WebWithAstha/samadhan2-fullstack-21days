@@ -2,6 +2,7 @@
 
 // Import express
 const express = require("express");
+const cors = require("cors")
 
 // Create an express app
 const app = express();
@@ -9,6 +10,7 @@ const PORT = 3000;
 
 // Middleware to parse JSON bodies
 app.use(express.json());
+app.use(cors())
 
 // Sample data - list of students
 let students = [
