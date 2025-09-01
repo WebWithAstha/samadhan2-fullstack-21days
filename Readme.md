@@ -114,6 +114,28 @@ Add student → POST http://localhost:3000/students with JSON body
 Update student → PUT http://localhost:3000/students/:id with JSON body
 Delete student → DELETE http://localhost:3000/students/:id
 
+---
+
+### Day 12 – Full-Stack CRUD
+- Folder: [`/day-12`](./day-12)
+- Learned: Connecting React frontend with Express backend for complete CRUD operations
+- Mini Task: Student Management App (Create, Read, Update, Delete)
+
+**Instructions:**  
+1. Start backend:
+    ```bash
+    cd day-12/backend
+    npm install
+    node index.js
+    ```
+
+2. Start frontend:
+    ```bash
+    cd day-12/frontend
+    npm install
+    npm run dev
+    ```
 
 ---
+
 
