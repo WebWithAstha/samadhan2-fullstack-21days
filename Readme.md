@@ -66,3 +66,29 @@ npm run dev
     ```
 
 ---
+
+
+---
+
+### Day 11 – Backend CRUD
+- Folder: [`/day-11`](./day-11)
+- Learned: Express routes (GET, POST, PUT, DELETE) with modular structure
+- Mini Task: Student CRUD API
+
+**Instructions:**  
+```bash
+cd day-11
+npm install express
+node index.js
+
+
+Test API Endpoints:
+
+GET all students → GET http://localhost:3000/students
+GET one student → GET http://localhost:3000/students/:id
+Add student → POST http://localhost:3000/students with JSON body
+Update student → PUT http://localhost:3000/students/:id with JSON body
+Delete student → DELETE http://localhost:3000/students/:id
+
+
+---
