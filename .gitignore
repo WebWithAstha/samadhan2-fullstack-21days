@@ -26,3 +26,5 @@ build/
 # Operating System Files
 .DS_Store
 Thumbs.db
+
+readme.md
