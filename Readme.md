@@ -104,6 +104,19 @@ npm run dev
 ---
 
 
+### Day 10 – Styling
+- Folder: [`/day-10`](./day-10)
+- Learned: Tailwind CSS setup, component-based styling
+
+**Instructions:** 
+1. Start frontend:
+   ```bash
+    cd day-10/react-app
+    npm install
+    npm run dev
+    ```
+
+
 ---
 
 ### Day 11 – Backend CRUD
