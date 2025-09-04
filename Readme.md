@@ -29,6 +29,30 @@ Each day has its own folder, and this README serves as the main progress log.
 - Learned: Installing Express, creating routes (GET, POST)
 - Mini-task: API returning a list of students (JSON)
 
+### Day 06 – HTML & CSS Basics
+- Folder: [`/day-06`](./day-06)
+- Learned: HTML structure, CSS styling, responsive design basics
+- Mini-task: Static student profile page
+
+**Instructions:**  
+```bash
+cd day-06
+# Open index.html in browser
+open index.html
+```
+
+### Day 07 – React.js Setup
+- Folder: [`/day-07`](./day-07)
+- Learned: React installation, components, JSX, props
+- Mini-task: Student card component
+
+**Instructions:**  
+```bash
+cd day-07/react-app
+npm install
+npm run dev
+```
+
 ---
 
 ### Day 08 – Lists & Events
@@ -80,7 +104,7 @@ npm run dev
 cd day-11
 npm install express
 node index.js
-
+```
 
 Test API Endpoints:
 
@@ -92,3 +116,4 @@ Delete student → DELETE http://localhost:3000/students/:id
 
 
 ---
+
