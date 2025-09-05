@@ -1,0 +1,11 @@
+{
+  "name": "day-12-todo-backend",
+  "version": "1.0.0",
+  "main": "todo-backend.js",
+  "scripts": {
+    "start": "node todo-backend.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Simple Node.js backend for Day 12 To-Do App"
+}
