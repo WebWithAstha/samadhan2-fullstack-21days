@@ -164,3 +164,39 @@ Delete student → DELETE http://localhost:3000/students/:id
 ---
 
 
+### Day 14 – Authentication Basics
+- Folder: [`/day-14`](./day-14)
+- Learned: JWT intro, user registration & login API
+
+**Instructions:**  
+1. Start backend:
+    ```bash
+    cd day-14/backend
+    npm install
+    node index.js
+    ```
+---
+
+
+### Day 15 – React + Auth
+- Folder: [`/day-15`](./day-15)
+- Learned: React login form, JWT authentication, protected routes
+
+**Instructions:**  
+1. Start backend:
+    ```bash
+    cd day-14/backend
+    npm install
+    node index.js
+    ```
+
+2. Start frontend:
+    ```bash
+    cd day-15/frontend
+    npm install
+    npm run dev
+    ```
+
+---
+
+
