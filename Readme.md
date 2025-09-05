@@ -3,6 +3,18 @@
 The Golus is building full-stack skills in **21 days** by creating one project every day.  
 Each day has its own folder, and this README serves as the main progress log.
 
+
+### 📊 Presentation (PPT)  
+[![PPT Preview](https://res.cloudinary.com/dnokci0nm/image/upload/v1757095423/Screenshot_2025-09-05_233316_ihvww0.png)](https://drive.google.com/file/d/1CAwSmrCkrYC7pmIMaHerPpD3r2mrcxYd/view?usp=sharing)  
+Click the above preview to view our detailed hackathon presentation.  
+
+---
+
+### 🎬 Demo Video  
+[![Watch on YouTube](https://res.cloudinary.com/dnokci0nm/image/upload/v1757095291/Design_mjjq7b.png)](https://youtu.be/GlSyDUIaDus)  
+Watch our **2-minute demo video** explaining the idea, problem, solution, and impact.  
+
+
 ---
 
 ## Daily Progress
